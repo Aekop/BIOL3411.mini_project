@@ -1,5 +1,5 @@
 # BIOL3411.mini_project_github.io
-Borrelia burgdorferi
+*Borrelia burgdorferi*
 
 https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=224326
 - Size of genome

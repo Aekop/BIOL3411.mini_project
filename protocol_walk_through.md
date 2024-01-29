@@ -14,5 +14,6 @@ Now, you are ready to begin to generate the reverse complement.
 How to calculate the GC content of the file! 
   1. Use the same modules if needed download using -> `module load emboss/6.6.0` and `module load seqtk/1.3`
   2. Use this command to calculate the nucleotide content of your sequence `seqtk comp downloaded_genome.fna | awk 'OFS="\t" {sumA+=$3; sumC+=$4; sumG+=$5; sumT+=$6} END {print "A:"sumA,"C:"sumC,"G:"sumG,"T:"sumT}'` This will print out A:, C:, G:, T:.
-  3. Then do some simple math! ((G+C)/Total_nuc)*100 = % GC content.
-  4. Our results are 28.18%. 
+  3. Our results were: A:554356	C:209969	G:218703	T:538125
+  4. Then do some simple math! ((G+C)/Total_nuc)*100 = % GC content.
+  5. Our results are 28.18%. 

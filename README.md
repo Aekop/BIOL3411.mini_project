@@ -12,4 +12,4 @@ Link: https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=2243
 - Where to access the genome sequence and at what coverage it was sequenced
   - Available on NCBI, median coverage of 57.6x (interquartile range [IQR] 27.6x - 130.8x).
 - Any other interesting facts about the genome that turn up
-   - 300,000 Americans get Lyme disease every year.
+   - 300,000 Americans get Lyme disease every year
